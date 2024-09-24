@@ -89,5 +89,6 @@ frontend\microfrontend\photo\src\utils\api.js
 
 
 ЗАДАНИЕ № 2
-https://drive.google.com/file/d/1INSmIkMrrXFgngBrVydZDTm5rqdhlDzF/view?usp=sharing
+обновленная диаграмма
+https://drive.google.com/file/d/1xv52F4ZPdnjVbzecHGKoL3SJkrSLWqMt/view?usp=sharing
 так же положил в репозитории task2\Demyantsev_sprint1_task2.drawio
